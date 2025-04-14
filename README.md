@@ -1,3 +1,14 @@
-cd electron-app
-npm install
-npm run dev
+## Project Setup
+
+### Install
+
+```bash
+$ cd electron-app
+$ npm install
+```
+
+### Development
+
+```bash
+$ npm run dev
+```
