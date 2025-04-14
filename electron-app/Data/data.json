@@ -1,0 +1,2024 @@
+{
+    "2025-04-10": {
+        "apps": {
+            "explorer.exe": {
+                "time": 28287,
+                "category": "Utilities"
+            },
+            "": {
+                "time": 4012,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "New Tab - Google Chrome": {
+                "time": 118991,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "Reddit - What do you expect from a software dev with 2 years of experience? : r/developersPak": {
+                "time": 60005,
+                "category": "Code",
+                "domain": ""
+            },
+            "electron.exe": {
+                "time": 347878,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 369981,
+                "category": "Code"
+            },
+            "data.json - electron-app - Visual Studio Code": {
+                "time": 2991,
+                "category": "Code",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "AWS Cloud Practitioner Essentials - AWS Cloud Practitioner Essentials - Google Chrome": {
+                "time": 3569405,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "msedge.exe": {
+                "time": 545019,
+                "category": "Miscellaneous"
+            },
+            "Spotify.exe": {
+                "time": 701004,
+                "category": "Entertainment"
+            },
+            "NEW handouts + checklists - File Explorer": {
+                "time": 1009,
+                "category": "Utilities",
+                "domain": "explore.skillbuilder.aws"
+            },
+            ".": {
+                "time": 96001,
+                "category": "Miscellaneous"
+            },
+            "Self-paced digital training on AWS - AWS Skill Builder - Google Chrome": {
+                "time": 6011,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "AWS Skill Builder - Google Chrome": {
+                "time": 2994,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "vu academic calendar - Google Search - Google Chrome": {
+                "time": 5010,
+                "category": "Browsing",
+                "domain": "google.com"
+            },
+            "Virtual University of Pakistan - Google Chrome": {
+                "time": 113988,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "YouTube": {
+                "time": 15971,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "electron-app": {
+                "time": 5995,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "Distraction Popup": {
+                "time": 19014,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "YouTube - (36) YouTube": {
+                "time": 3432015,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "YouTube - (36) Warfare | Official Trailer HD | A24 - YouTube": {
+                "time": 1888894,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "AreaChart Explanation - Google Chrome": {
+                "time": 3988,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "ChatGPT - Google Chrome": {
+                "time": 1009,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "What is AWS - Google Chrome": {
+                "time": 801021,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "Electron": {
+                "time": 11713,
+                "category": "Miscellaneous",
+                "domain": "instagram.com"
+            },
+            "instagram.com - Google Chrome": {
+                "time": 1004,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            },
+            "Instagram - Google Chrome": {
+                "time": 930029,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            },
+            "AreaChart | Recharts - Google Chrome": {
+                "time": 10007,
+                "category": "Browsing",
+                "domain": "recharts.org"
+            },
+            "Stories • Instagram - Google Chrome": {
+                "time": 117974,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "UnlockingWindow": {
+                "time": 953,
+                "category": "Miscellaneous",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "ipl standings - Google Search - Google Chrome": {
+                "time": 59999,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            }
+        },
+        "13:00": {
+            "explorer.exe": {
+                "time": 2001,
+                "category": "Utilities"
+            },
+            "": {
+                "time": 2002,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "New Tab - Google Chrome": {
+                "time": 40001,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "Reddit - What do you expect from a software dev with 2 years of experience? : r/developersPak": {
+                "time": 60005,
+                "category": "Code",
+                "domain": ""
+            },
+            "electron.exe": {
+                "time": 17754,
+                "category": "Code"
+            }
+        },
+        "10:00": {
+            "explorer.exe": {
+                "time": 20001,
+                "category": "Utilities"
+            },
+            "": {
+                "time": 20002,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "New Tab - Google Chrome": {
+                "time": 4000001,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "Reddit - What do you expect from a software dev with 2 years of experience? : r/developersPak": {
+                "time": 600005,
+                "category": "Code",
+                "domain": ""
+            },
+            "electron.exe": {
+                "time": 17754,
+                "category": "Code"
+            }
+        },
+        "12:00": {
+            "explorer.exe": {
+                "time": 20001,
+                "category": "Utilities"
+            },
+            "": {
+                "time": 20002,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "New Tab - Google Chrome": {
+                "time": 4000001,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "Reddit - What do you expect from a software dev with 2 years of experience? : r/developersPak": {
+                "time": 600005,
+                "category": "Code",
+                "domain": ""
+            },
+            "electron.exe": {
+                "time": 17754,
+                "category": "Code"
+            }
+        },
+        "15:00": {
+            "Code.exe": {
+                "time": 349984,
+                "category": "Code"
+            },
+            "data.json - electron-app - Visual Studio Code": {
+                "time": 2991,
+                "category": "Code",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "AWS Cloud Practitioner Essentials - AWS Cloud Practitioner Essentials - Google Chrome": {
+                "time": 668006,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "explorer.exe": {
+                "time": 21986,
+                "category": "Utilities"
+            },
+            "msedge.exe": {
+                "time": 545019,
+                "category": "Miscellaneous"
+            },
+            "Spotify.exe": {
+                "time": 701004,
+                "category": "Entertainment"
+            },
+            "NEW handouts + checklists - File Explorer": {
+                "time": 1009,
+                "category": "Utilities",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "electron.exe": {
+                "time": 5008,
+                "category": "Code"
+            },
+            ".": {
+                "time": 96001,
+                "category": "Miscellaneous"
+            },
+            "Self-paced digital training on AWS - AWS Skill Builder - Google Chrome": {
+                "time": 6011,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "AWS Skill Builder - Google Chrome": {
+                "time": 2994,
+                "category": "Browsing",
+                "domain": "undefined"
+            }
+        },
+        "16:00": {
+            "": {
+                "time": 2010,
+                "category": "Miscellaneous",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "AWS Cloud Practitioner Essentials - AWS Cloud Practitioner Essentials - Google Chrome": {
+                "time": 1611013,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "New Tab - Google Chrome": {
+                "time": 76990,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "vu academic calendar - Google Search - Google Chrome": {
+                "time": 5010,
+                "category": "Browsing",
+                "domain": "google.com"
+            },
+            "Virtual University of Pakistan - Google Chrome": {
+                "time": 113988,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "explorer.exe": {
+                "time": 1007,
+                "category": "Utilities"
+            },
+            "YouTube": {
+                "time": 15971,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "electron.exe": {
+                "time": 158246,
+                "category": "Code"
+            },
+            "electron-app": {
+                "time": 5995,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "Distraction Popup": {
+                "time": 19014,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "YouTube - (36) YouTube": {
+                "time": 3432015,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "YouTube - (36) Warfare | Official Trailer HD | A24 - YouTube": {
+                "time": 1888894,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "AreaChart Explanation - Google Chrome": {
+                "time": 3988,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "ChatGPT - Google Chrome": {
+                "time": 1009,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "What is AWS - Google Chrome": {
+                "time": 741020,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "Code.exe": {
+                "time": 19997,
+                "category": "Code"
+            },
+            "Electron": {
+                "time": 6003,
+                "category": "Miscellaneous",
+                "domain": "instagram.com"
+            },
+            "instagram.com - Google Chrome": {
+                "time": 1004,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            },
+            "Instagram - Google Chrome": {
+                "time": 3999,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            },
+            "AreaChart | Recharts - Google Chrome": {
+                "time": 2998,
+                "category": "Browsing",
+                "domain": "recharts.org"
+            }
+        },
+        "17:00": {
+            "electron.exe": {
+                "time": 166870,
+                "category": "Code"
+            },
+            "Electron": {
+                "time": 5710,
+                "category": "Miscellaneous",
+                "domain": "recharts.org"
+            },
+            "AreaChart | Recharts - Google Chrome": {
+                "time": 7009,
+                "category": "Browsing",
+                "domain": "recharts.org"
+            },
+            "Instagram - Google Chrome": {
+                "time": 926030,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            },
+            "Stories • Instagram - Google Chrome": {
+                "time": 117974,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "explorer.exe": {
+                "time": 3293,
+                "category": "Utilities"
+            },
+            "New Tab - Google Chrome": {
+                "time": 2000,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "AWS Cloud Practitioner Essentials - AWS Cloud Practitioner Essentials - Google Chrome": {
+                "time": 1290386,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "UnlockingWindow": {
+                "time": 953,
+                "category": "Miscellaneous",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "What is AWS - Google Chrome": {
+                "time": 60001,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "ipl standings - Google Search - Google Chrome": {
+                "time": 59999,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            }
+        }
+    },
+    "2025-04-11": {
+        "apps": {
+            "electron.exe": {
+                "time": 1067740,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 2308661,
+                "category": "Code"
+            },
+            "explorer.exe": {
+                "time": 31008,
+                "category": "Utilities"
+            },
+            "Notion.exe": {
+                "time": 7353,
+                "category": "Miscellaneous"
+            },
+            "vlc.exe": {
+                "time": 146004,
+                "category": "Entertainment"
+            },
+            "ScreenTimePage.jsx - electron-app - Visual Studio Code": {
+                "time": 62930,
+                "category": "Code",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Daily dashboard - Google Chrome": {
+                "time": 391279,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "Electron": {
+                "time": 5494,
+                "category": "Miscellaneous",
+                "domain": "rescuetime.com"
+            },
+            "Sign in to RescueTime - Google Chrome": {
+                "time": 7008,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "Program Manager": {
+                "time": 993,
+                "category": "Utilities",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Weekly dashboard - Google Chrome": {
+                "time": 51001,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Monthly dashboard - Google Chrome": {
+                "time": 47996,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - All Activities - Google Chrome": {
+                "time": 59998,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "YouTube - (37) YouTube": {
+                "time": 1273963,
+                "category": "Entertainment",
+                "domain": null
+            },
+            "Skype.exe": {
+                "time": 10991,
+                "category": "Communication"
+            },
+            "ApplicationFrameHost.exe": {
+                "time": 59996,
+                "category": "Miscellaneous"
+            },
+            "DeepSeek - Into the Unknown - Google Chrome": {
+                "time": 1320002,
+                "category": "Browsing",
+                "domain": null
+            },
+            "YouTube - (37) 6 State Mistakes Every Junior React Developer Makes - YouTube": {
+                "time": 59997,
+                "category": "Code",
+                "domain": null
+            },
+            "Reddit - Struggling to balance intimacy and work life : r/MuslimMarriage": {
+                "time": 240002,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "Reddit - The heart of the internet": {
+                "time": 59998,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "Reddit - Lack of intimacy after having a baby. : r/MuslimMarriage": {
+                "time": 180001,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "LinkedIn.exe": {
+                "time": 480000,
+                "category": "Browsing"
+            },
+            "LinkedIn": {
+                "time": 119996,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "Great Time and Food - Google Chrome": {
+                "time": 59998,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            }
+        },
+        "09:00": {
+            "electron.exe": {
+                "time": 57611,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 234735,
+                "category": "Code"
+            }
+        },
+        "10:00": {
+            "Code.exe": {
+                "time": 1457964,
+                "category": "Code"
+            },
+            "electron.exe": {
+                "time": 561700,
+                "category": "Code"
+            },
+            "explorer.exe": {
+                "time": 28996,
+                "category": "Utilities"
+            },
+            "Notion.exe": {
+                "time": 7353,
+                "category": "Miscellaneous"
+            },
+            "vlc.exe": {
+                "time": 146004,
+                "category": "Entertainment"
+            },
+            "ScreenTimePage.jsx - electron-app - Visual Studio Code": {
+                "time": 924,
+                "category": "Code",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Daily dashboard - Google Chrome": {
+                "time": 151277,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "Electron": {
+                "time": 3698,
+                "category": "Miscellaneous",
+                "domain": "rescuetime.com"
+            },
+            "Sign in to RescueTime - Google Chrome": {
+                "time": 7008,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "Program Manager": {
+                "time": 993,
+                "category": "Utilities",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Weekly dashboard - Google Chrome": {
+                "time": 51001,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Monthly dashboard - Google Chrome": {
+                "time": 47996,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - All Activities - Google Chrome": {
+                "time": 59998,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            }
+        },
+        "11:00": {
+            "electron.exe": {
+                "time": 368035,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 615962,
+                "category": "Code"
+            },
+            "explorer.exe": {
+                "time": 2012,
+                "category": "Utilities"
+            },
+            "ScreenTimePage.jsx - electron-app - Visual Studio Code": {
+                "time": 62006,
+                "category": "Code",
+                "domain": "undefined"
+            },
+            "YouTube - (37) YouTube": {
+                "time": 613966,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "Skype.exe": {
+                "time": 10991,
+                "category": "Communication"
+            },
+            "ApplicationFrameHost.exe": {
+                "time": 59996,
+                "category": "Miscellaneous"
+            },
+            "DeepSeek - Into the Unknown - Google Chrome": {
+                "time": 599992,
+                "category": "Browsing",
+                "domain": "undefined"
+            }
+        },
+        "12:00": {
+            "DeepSeek - Into the Unknown - Google Chrome": {
+                "time": 720010,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "YouTube - (37) YouTube": {
+                "time": 659997,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "YouTube - (37) 6 State Mistakes Every Junior React Developer Makes - YouTube": {
+                "time": 59997,
+                "category": "Code",
+                "domain": "undefined"
+            },
+            "Reddit - Struggling to balance intimacy and work life : r/MuslimMarriage": {
+                "time": 240002,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "Reddit - The heart of the internet": {
+                "time": 59998,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "Reddit - Lack of intimacy after having a baby. : r/MuslimMarriage": {
+                "time": 180001,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "LinkedIn.exe": {
+                "time": 480000,
+                "category": "Browsing"
+            },
+            "LinkedIn": {
+                "time": 119996,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "Great Time and Food - Google Chrome": {
+                "time": 59998,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Daily dashboard - Google Chrome": {
+                "time": 240002,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "electron.exe": {
+                "time": 80394,
+                "category": "Code"
+            },
+            "Electron": {
+                "time": 1796,
+                "category": "Miscellaneous",
+                "domain": "rescuetime.com"
+            }
+        }
+    },
+    "2025-04-07": {
+        "apps": {
+            "explorer.exe": {
+                "time": 28287,
+                "category": "Utilities"
+            },
+            "": {
+                "time": 4012,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "New Tab - Google Chrome": {
+                "time": 118991,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "Reddit - What do you expect from a software dev with 2 years of experience? : r/developersPak": {
+                "time": 60005,
+                "category": "Code",
+                "domain": ""
+            },
+            "electron.exe": {
+                "time": 347878,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 369981,
+                "category": "Code"
+            },
+            "data.json - electron-app - Visual Studio Code": {
+                "time": 2991,
+                "category": "Code",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "AWS Cloud Practitioner Essentials - AWS Cloud Practitioner Essentials - Google Chrome": {
+                "time": 3569405,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "msedge.exe": {
+                "time": 545019,
+                "category": "Miscellaneous"
+            },
+            "Spotify.exe": {
+                "time": 701004,
+                "category": "Entertainment"
+            },
+            "NEW handouts + checklists - File Explorer": {
+                "time": 1009,
+                "category": "Utilities",
+                "domain": "explore.skillbuilder.aws"
+            },
+            ".": {
+                "time": 96001,
+                "category": "Miscellaneous"
+            },
+            "Self-paced digital training on AWS - AWS Skill Builder - Google Chrome": {
+                "time": 6011,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "AWS Skill Builder - Google Chrome": {
+                "time": 2994,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "vu academic calendar - Google Search - Google Chrome": {
+                "time": 5010,
+                "category": "Browsing",
+                "domain": "google.com"
+            },
+            "Virtual University of Pakistan - Google Chrome": {
+                "time": 113988,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "YouTube": {
+                "time": 15971,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "electron-app": {
+                "time": 5995,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "Distraction Popup": {
+                "time": 19014,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "YouTube - (36) YouTube": {
+                "time": 3432015,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "YouTube - (36) Warfare | Official Trailer HD | A24 - YouTube": {
+                "time": 1888894,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "AreaChart Explanation - Google Chrome": {
+                "time": 3988,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "ChatGPT - Google Chrome": {
+                "time": 1009,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "What is AWS - Google Chrome": {
+                "time": 801021,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "Electron": {
+                "time": 11713,
+                "category": "Miscellaneous",
+                "domain": "instagram.com"
+            },
+            "instagram.com - Google Chrome": {
+                "time": 1004,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            },
+            "Instagram - Google Chrome": {
+                "time": 930029,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            },
+            "AreaChart | Recharts - Google Chrome": {
+                "time": 10007,
+                "category": "Browsing",
+                "domain": "recharts.org"
+            },
+            "Stories • Instagram - Google Chrome": {
+                "time": 117974,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "UnlockingWindow": {
+                "time": 953,
+                "category": "Miscellaneous",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "ipl standings - Google Search - Google Chrome": {
+                "time": 59999,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            }
+        },
+        "13:00": {
+            "explorer.exe": {
+                "time": 2001,
+                "category": "Utilities"
+            },
+            "": {
+                "time": 2002,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "New Tab - Google Chrome": {
+                "time": 40001,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "Reddit - What do you expect from a software dev with 2 years of experience? : r/developersPak": {
+                "time": 60005,
+                "category": "Code",
+                "domain": ""
+            },
+            "electron.exe": {
+                "time": 17754,
+                "category": "Code"
+            }
+        },
+        "10:00": {
+            "explorer.exe": {
+                "time": 20001,
+                "category": "Utilities"
+            },
+            "": {
+                "time": 20002,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "New Tab - Google Chrome": {
+                "time": 4000001,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "Reddit - What do you expect from a software dev with 2 years of experience? : r/developersPak": {
+                "time": 600005,
+                "category": "Code",
+                "domain": ""
+            },
+            "electron.exe": {
+                "time": 17754,
+                "category": "Code"
+            }
+        },
+        "12:00": {
+            "explorer.exe": {
+                "time": 20001,
+                "category": "Utilities"
+            },
+            "": {
+                "time": 20002,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "New Tab - Google Chrome": {
+                "time": 4000001,
+                "category": "Browsing",
+                "domain": ""
+            },
+            "Reddit - What do you expect from a software dev with 2 years of experience? : r/developersPak": {
+                "time": 600005,
+                "category": "Code",
+                "domain": ""
+            },
+            "electron.exe": {
+                "time": 17754,
+                "category": "Code"
+            }
+        },
+        "15:00": {
+            "Code.exe": {
+                "time": 349984,
+                "category": "Code"
+            },
+            "data.json - electron-app - Visual Studio Code": {
+                "time": 2991,
+                "category": "Code",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "AWS Cloud Practitioner Essentials - AWS Cloud Practitioner Essentials - Google Chrome": {
+                "time": 668006,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "explorer.exe": {
+                "time": 21986,
+                "category": "Utilities"
+            },
+            "msedge.exe": {
+                "time": 545019,
+                "category": "Miscellaneous"
+            },
+            "Spotify.exe": {
+                "time": 701004,
+                "category": "Entertainment"
+            },
+            "NEW handouts + checklists - File Explorer": {
+                "time": 1009,
+                "category": "Utilities",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "electron.exe": {
+                "time": 5008,
+                "category": "Code"
+            },
+            ".": {
+                "time": 96001,
+                "category": "Miscellaneous"
+            },
+            "Self-paced digital training on AWS - AWS Skill Builder - Google Chrome": {
+                "time": 6011,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "AWS Skill Builder - Google Chrome": {
+                "time": 2994,
+                "category": "Browsing",
+                "domain": "undefined"
+            }
+        },
+        "16:00": {
+            "": {
+                "time": 2010,
+                "category": "Miscellaneous",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "AWS Cloud Practitioner Essentials - AWS Cloud Practitioner Essentials - Google Chrome": {
+                "time": 1611013,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "New Tab - Google Chrome": {
+                "time": 76990,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "vu academic calendar - Google Search - Google Chrome": {
+                "time": 5010,
+                "category": "Browsing",
+                "domain": "google.com"
+            },
+            "Virtual University of Pakistan - Google Chrome": {
+                "time": 113988,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "explorer.exe": {
+                "time": 1007,
+                "category": "Utilities"
+            },
+            "YouTube": {
+                "time": 15971,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "electron.exe": {
+                "time": 158246,
+                "category": "Code"
+            },
+            "electron-app": {
+                "time": 5995,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "Distraction Popup": {
+                "time": 19014,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "YouTube - (36) YouTube": {
+                "time": 3432015,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "YouTube - (36) Warfare | Official Trailer HD | A24 - YouTube": {
+                "time": 1888894,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "AreaChart Explanation - Google Chrome": {
+                "time": 3988,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "ChatGPT - Google Chrome": {
+                "time": 1009,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "What is AWS - Google Chrome": {
+                "time": 741020,
+                "category": "Browsing",
+                "domain": "chatgpt.com"
+            },
+            "Code.exe": {
+                "time": 19997,
+                "category": "Code"
+            },
+            "Electron": {
+                "time": 6003,
+                "category": "Miscellaneous",
+                "domain": "instagram.com"
+            },
+            "instagram.com - Google Chrome": {
+                "time": 1004,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            },
+            "Instagram - Google Chrome": {
+                "time": 3999,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            },
+            "AreaChart | Recharts - Google Chrome": {
+                "time": 2998,
+                "category": "Browsing",
+                "domain": "recharts.org"
+            }
+        },
+        "17:00": {
+            "electron.exe": {
+                "time": 166870,
+                "category": "Code"
+            },
+            "Electron": {
+                "time": 5710,
+                "category": "Miscellaneous",
+                "domain": "recharts.org"
+            },
+            "AreaChart | Recharts - Google Chrome": {
+                "time": 7009,
+                "category": "Browsing",
+                "domain": "recharts.org"
+            },
+            "Instagram - Google Chrome": {
+                "time": 926030,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            },
+            "Stories • Instagram - Google Chrome": {
+                "time": 117974,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "explorer.exe": {
+                "time": 3293,
+                "category": "Utilities"
+            },
+            "New Tab - Google Chrome": {
+                "time": 2000,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "AWS Cloud Practitioner Essentials - AWS Cloud Practitioner Essentials - Google Chrome": {
+                "time": 1290386,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "UnlockingWindow": {
+                "time": 953,
+                "category": "Miscellaneous",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "What is AWS - Google Chrome": {
+                "time": 60001,
+                "category": "Browsing",
+                "domain": "explore.skillbuilder.aws"
+            },
+            "ipl standings - Google Search - Google Chrome": {
+                "time": 59999,
+                "category": "Browsing",
+                "domain": "instagram.com"
+            }
+        }
+    },
+    "2025-04-06": {
+        "apps": {
+            "electron.exe": {
+                "time": 682408,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 1743473,
+                "category": "Code"
+            },
+            "explorer.exe": {
+                "time": 28996,
+                "category": "Utilities"
+            },
+            "Notion.exe": {
+                "time": 7353,
+                "category": "Miscellaneous"
+            },
+            "vlc.exe": {
+                "time": 146004,
+                "category": "Entertainment"
+            },
+            "ScreenTimePage.jsx - electron-app - Visual Studio Code": {
+                "time": 924,
+                "category": "Code",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Daily dashboard - Google Chrome": {
+                "time": 151277,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "Electron": {
+                "time": 3698,
+                "category": "Miscellaneous",
+                "domain": "rescuetime.com"
+            },
+            "Sign in to RescueTime - Google Chrome": {
+                "time": 7008,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "Program Manager": {
+                "time": 993,
+                "category": "Utilities",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Weekly dashboard - Google Chrome": {
+                "time": 51001,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Monthly dashboard - Google Chrome": {
+                "time": 47996,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - All Activities - Google Chrome": {
+                "time": 59998,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            }
+        },
+        "09:00": {
+            "electron.exe": {
+                "time": 57611,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 234735,
+                "category": "Code"
+            }
+        },
+        "10:00": {
+            "Code.exe": {
+                "time": 1457964,
+                "category": "Code"
+            },
+            "electron.exe": {
+                "time": 561700,
+                "category": "Code"
+            },
+            "explorer.exe": {
+                "time": 28996,
+                "category": "Utilities"
+            },
+            "Notion.exe": {
+                "time": 7353,
+                "category": "Miscellaneous"
+            },
+            "vlc.exe": {
+                "time": 146004,
+                "category": "Entertainment"
+            },
+            "ScreenTimePage.jsx - electron-app - Visual Studio Code": {
+                "time": 924,
+                "category": "Code",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Daily dashboard - Google Chrome": {
+                "time": 151277,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "Electron": {
+                "time": 3698,
+                "category": "Miscellaneous",
+                "domain": "rescuetime.com"
+            },
+            "Sign in to RescueTime - Google Chrome": {
+                "time": 7008,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "Program Manager": {
+                "time": 993,
+                "category": "Utilities",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Weekly dashboard - Google Chrome": {
+                "time": 51001,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Monthly dashboard - Google Chrome": {
+                "time": 47996,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - All Activities - Google Chrome": {
+                "time": 59998,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            }
+        },
+        "11:00": {
+            "electron.exe": {
+                "time": 63097,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 50774,
+                "category": "Code"
+            }
+        }
+    },
+    "2025-04-16": {
+        "apps": {
+            "electron.exe": {
+                "time": 682408,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 1743473,
+                "category": "Code"
+            },
+            "explorer.exe": {
+                "time": 28996,
+                "category": "Utilities"
+            },
+            "Notion.exe": {
+                "time": 7353,
+                "category": "Miscellaneous"
+            },
+            "vlc.exe": {
+                "time": 146004,
+                "category": "Entertainment"
+            },
+            "ScreenTimePage.jsx - electron-app - Visual Studio Code": {
+                "time": 924,
+                "category": "Code",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Daily dashboard - Google Chrome": {
+                "time": 151277,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "Electron": {
+                "time": 3698,
+                "category": "Miscellaneous",
+                "domain": "rescuetime.com"
+            },
+            "Sign in to RescueTime - Google Chrome": {
+                "time": 7008,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "Program Manager": {
+                "time": 993,
+                "category": "Utilities",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Weekly dashboard - Google Chrome": {
+                "time": 51001,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Monthly dashboard - Google Chrome": {
+                "time": 47996,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - All Activities - Google Chrome": {
+                "time": 59998,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            }
+        },
+        "09:00": {
+            "electron.exe": {
+                "time": 57611,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 234735,
+                "category": "Code"
+            }
+        },
+        "10:00": {
+            "Code.exe": {
+                "time": 1457964,
+                "category": "Code"
+            },
+            "electron.exe": {
+                "time": 561700,
+                "category": "Code"
+            },
+            "explorer.exe": {
+                "time": 28996,
+                "category": "Utilities"
+            },
+            "Notion.exe": {
+                "time": 7353,
+                "category": "Miscellaneous"
+            },
+            "vlc.exe": {
+                "time": 146004,
+                "category": "Entertainment"
+            },
+            "ScreenTimePage.jsx - electron-app - Visual Studio Code": {
+                "time": 924,
+                "category": "Code",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Daily dashboard - Google Chrome": {
+                "time": 151277,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "Electron": {
+                "time": 3698,
+                "category": "Miscellaneous",
+                "domain": "rescuetime.com"
+            },
+            "Sign in to RescueTime - Google Chrome": {
+                "time": 7008,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "Program Manager": {
+                "time": 993,
+                "category": "Utilities",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Weekly dashboard - Google Chrome": {
+                "time": 51001,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - Your Monthly dashboard - Google Chrome": {
+                "time": 47996,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            },
+            "RescueTime - All Activities - Google Chrome": {
+                "time": 59998,
+                "category": "Browsing",
+                "domain": "rescuetime.com"
+            }
+        },
+        "11:00": {
+            "electron.exe": {
+                "time": 63097,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 50774,
+                "category": "Code"
+            }
+        }
+    },
+    "2025-04-14": {
+        "apps": {
+            "Code.exe": {
+                "time": 3185990,
+                "category": "Code"
+            },
+            "electron.exe": {
+                "time": 1699467,
+                "category": "Code"
+            },
+            "data.json - electron-app - Visual Studio Code": {
+                "time": 121015,
+                "category": "Code",
+                "domain": "brave"
+            },
+            "Electron": {
+                "time": 9725,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "New Tab - Google Chrome": {
+                "time": 85135,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "explorer.exe": {
+                "time": 137021,
+                "category": "Utilities"
+            },
+            "": {
+                "time": 65001,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "YouTube": {
+                "time": 39972,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "YouTube - (42) YouTube": {
+                "time": 89998,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "YouTube - (42) Node JS Full Course 2024 | Complete Backend Development Course | Part 1 - YouTube": {
+                "time": 33012,
+                "category": "Code",
+                "domain": "undefined"
+            },
+            "\u0001_": {
+                "time": 8000,
+                "category": "Miscellaneous"
+            },
+            "Download complete. Please wait while the installer is verified., Brave-Release Installer": {
+                "time": 7007,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "brave.exe": {
+                "time": 342997,
+                "category": "Miscellaneous"
+            },
+            "categories.js - electron-app - Visual Studio Code": {
+                "time": 1001,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) Node JS Full Course 2024 | Complete Backend Development Course | Part 1 - YouTube - Brave": {
+                "time": 2315578,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) Uber | System Design in 60 Seconds #systemdesigninterview #uber #ridesharing - YouTube - Brave": {
+                "time": 60001,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) E-Commerce System Design in Under 60 Seconds #techprep #programming #systemdesign - YouTube - Brave": {
+                "time": 60004,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) Monoliths vs Microservices #techprep #programming #microservices - YouTube - Brave": {
+                "time": 59998,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) ZooKeeper Explained #techprep #softwareengineering #zookeeper - YouTube - Brave": {
+                "time": 60006,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) YouTube System Design - Interview Question #TechPrep #SystemDesign #SoftwareEngineering - YouTube - Brave": {
+                "time": 24039,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) TechPrep - YouTube - Brave": {
+                "time": 184011,
+                "category": "Entertainment",
+                "domain": "youtube.com"
+            },
+            "New Tab - Brave": {
+                "time": 239974,
+                "category": "Miscellaneous",
+                "domain": "youtube.com"
+            },
+            "(42) Tiny URL - System Design Interview Question (URL shortener) - YouTube - Brave": {
+                "time": 719989,
+                "category": "Utilities",
+                "domain": "youtube.com"
+            },
+            "ChatGPT - Brave": {
+                "time": 59995,
+                "category": "Miscellaneous",
+                "domain": "chatgpt.com"
+            },
+            "URL Shortener Problem - Brave": {
+                "time": 775617,
+                "category": "Miscellaneous",
+                "domain": "chatgpt.com"
+            },
+            "Bitly Connections Platform | Short URLs, QR Codes, and More - Brave": {
+                "time": 59998,
+                "category": "Code",
+                "domain": "bit.ly"
+            },
+            "(42) YouTube - Brave": {
+                "time": 180001,
+                "category": "Entertainment",
+                "domain": "youtube.com"
+            },
+            "(42) 30-Minute Masterclass on Product Thinking | Instagram Co-Founder & Anthropic CPO, Mike Krieger - YouTube - Brave": {
+                "time": 119996,
+                "category": "Entertainment"
+            },
+            "ShellExperienceHost.exe": {
+                "time": 31987,
+                "category": "Miscellaneous"
+            },
+            "dataProcessor.js - electron-app - Visual Studio Code": {
+                "time": 124000,
+                "category": "Code",
+                "domain": "chatgpt.com"
+            },
+            "\u0001": {
+                "time": 991,
+                "category": "Miscellaneous"
+            },
+            "ScreenTimePage.jsx - electron-app - Visual Studio Code": {
+                "time": 120000,
+                "category": "Code",
+                "domain": "search.brave.com"
+            },
+            "Login - Spotify - Brave": {
+                "time": 60005,
+                "category": "Miscellaneous",
+                "domain": "open.spotify.com"
+            },
+            "Spotify.exe": {
+                "time": 60006,
+                "category": "Entertainment"
+            },
+            "YouTube - (42) Microsoft Worker Fired for Israel Protest: \"Cloud & AI Are the Bombs & Bullets of the 21st Century\" - YouTube": {
+                "time": 826982,
+                "category": "Entertainment",
+                "domain": null
+            },
+            "Distraction Popup": {
+                "time": 19194,
+                "category": "Miscellaneous",
+                "domain": null
+            },
+            "MostUsedList.jsx - electron-app - Visual Studio Code": {
+                "time": 64057,
+                "category": "Code",
+                "domain": null
+            },
+            "index.js - NodeJS-Course-2024-For-Beginners - Visual Studio Code": {
+                "time": 240992,
+                "category": "Code",
+                "domain": "chatgpt.com"
+            },
+            "green o food and beverages - Brave Search - Brave": {
+                "time": 59988,
+                "category": "Miscellaneous",
+                "domain": "youtube.com"
+            },
+            "Skype.exe": {
+                "time": 82000,
+                "category": "Communication"
+            },
+            "UsageChart.jsx - electron-app - Visual Studio Code": {
+                "time": 989,
+                "category": "Code",
+                "domain": "chatgpt.com"
+            },
+            "(42) A year of boycott: The high cost of supporting Israel - YouTube - Brave": {
+                "time": 532894,
+                "category": "Entertainment",
+                "domain": "youtube.com"
+            }
+        },
+        "10:00": {
+            "Code.exe": {
+                "time": 470762,
+                "category": "Code"
+            },
+            "electron.exe": {
+                "time": 239169,
+                "category": "Code"
+            },
+            "data.json - electron-app - Visual Studio Code": {
+                "time": 61018,
+                "category": "Code",
+                "domain": "brave"
+            },
+            "Electron": {
+                "time": 1144,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "New Tab - Google Chrome": {
+                "time": 85135,
+                "category": "Browsing",
+                "domain": "undefined"
+            },
+            "explorer.exe": {
+                "time": 2012,
+                "category": "Utilities"
+            },
+            "": {
+                "time": 2004,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "YouTube": {
+                "time": 39972,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "YouTube - (42) YouTube": {
+                "time": 7993,
+                "category": "Entertainment",
+                "domain": "undefined"
+            },
+            "YouTube - (42) Node JS Full Course 2024 | Complete Backend Development Course | Part 1 - YouTube": {
+                "time": 33012,
+                "category": "Code",
+                "domain": "undefined"
+            },
+            "\u0001_": {
+                "time": 8000,
+                "category": "Miscellaneous"
+            },
+            "Download complete. Please wait while the installer is verified., Brave-Release Installer": {
+                "time": 7007,
+                "category": "Miscellaneous",
+                "domain": "undefined"
+            },
+            "brave.exe": {
+                "time": 342997,
+                "category": "Miscellaneous"
+            },
+            "categories.js - electron-app - Visual Studio Code": {
+                "time": 1001,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) Node JS Full Course 2024 | Complete Backend Development Course | Part 1 - YouTube - Brave": {
+                "time": 182994,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) Uber | System Design in 60 Seconds #systemdesigninterview #uber #ridesharing - YouTube - Brave": {
+                "time": 60001,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) E-Commerce System Design in Under 60 Seconds #techprep #programming #systemdesign - YouTube - Brave": {
+                "time": 60004,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) Monoliths vs Microservices #techprep #programming #microservices - YouTube - Brave": {
+                "time": 59998,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) ZooKeeper Explained #techprep #softwareengineering #zookeeper - YouTube - Brave": {
+                "time": 60006,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) YouTube System Design - Interview Question #TechPrep #SystemDesign #SoftwareEngineering - YouTube - Brave": {
+                "time": 24039,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "(42) TechPrep - YouTube - Brave": {
+                "time": 124009,
+                "category": "Entertainment",
+                "domain": "youtube.com"
+            },
+            "New Tab - Brave": {
+                "time": 119986,
+                "category": "Miscellaneous",
+                "domain": "youtube.com"
+            },
+            "(42) Tiny URL - System Design Interview Question (URL shortener) - YouTube - Brave": {
+                "time": 359987,
+                "category": "Utilities",
+                "domain": "youtube.com"
+            },
+            "ChatGPT - Brave": {
+                "time": 59995,
+                "category": "Miscellaneous",
+                "domain": "chatgpt.com"
+            },
+            "URL Shortener Problem - Brave": {
+                "time": 180007,
+                "category": "Miscellaneous",
+                "domain": "chatgpt.com"
+            }
+        },
+        "11:00": {
+            "(42) Tiny URL - System Design Interview Question (URL shortener) - YouTube - Brave": {
+                "time": 360002,
+                "category": "Utilities",
+                "domain": "youtube.com"
+            },
+            "Bitly Connections Platform | Short URLs, QR Codes, and More - Brave": {
+                "time": 59998,
+                "category": "Code",
+                "domain": "bit.ly"
+            },
+            "explorer.exe": {
+                "time": 120021,
+                "category": "Utilities"
+            },
+            "": {
+                "time": 60989,
+                "category": "Miscellaneous",
+                "domain": "youtube.com"
+            },
+            "(42) TechPrep - YouTube - Brave": {
+                "time": 60002,
+                "category": "Entertainment",
+                "domain": "youtube.com"
+            },
+            "(42) YouTube - Brave": {
+                "time": 180001,
+                "category": "Entertainment",
+                "domain": "youtube.com"
+            },
+            "(42) 30-Minute Masterclass on Product Thinking | Instagram Co-Founder & Anthropic CPO, Mike Krieger - YouTube - Brave": {
+                "time": 119996,
+                "category": "Entertainment"
+            },
+            "electron.exe": {
+                "time": 643431,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 895884,
+                "category": "Code"
+            },
+            "ShellExperienceHost.exe": {
+                "time": 3002,
+                "category": "Miscellaneous"
+            },
+            "dataProcessor.js - electron-app - Visual Studio Code": {
+                "time": 63012,
+                "category": "Code",
+                "domain": "chatgpt.com"
+            },
+            "URL Shortener Problem - Brave": {
+                "time": 262594,
+                "category": "Miscellaneous",
+                "domain": "chatgpt.com"
+            },
+            "Electron": {
+                "time": 1597,
+                "category": "Miscellaneous",
+                "domain": "chatgpt.com"
+            },
+            "\u0001": {
+                "time": 991,
+                "category": "Miscellaneous"
+            }
+        },
+        "12:00": {
+            "electron.exe": {
+                "time": 160815,
+                "category": "Code"
+            },
+            "Code.exe": {
+                "time": 970616,
+                "category": "Code"
+            },
+            "ScreenTimePage.jsx - electron-app - Visual Studio Code": {
+                "time": 120000,
+                "category": "Code",
+                "domain": "search.brave.com"
+            },
+            "New Tab - Brave": {
+                "time": 119988,
+                "category": "Miscellaneous",
+                "domain": "youtube.com"
+            },
+            "(42) Node JS Full Course 2024 | Complete Backend Development Course | Part 1 - YouTube - Brave": {
+                "time": 954028,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "Login - Spotify - Brave": {
+                "time": 60005,
+                "category": "Miscellaneous",
+                "domain": "open.spotify.com"
+            },
+            "Spotify.exe": {
+                "time": 60006,
+                "category": "Entertainment"
+            },
+            "data.json - electron-app - Visual Studio Code": {
+                "time": 59997,
+                "category": "Code",
+                "domain": null
+            },
+            "YouTube - (42) Microsoft Worker Fired for Israel Protest: \"Cloud & AI Are the Bombs & Bullets of the 21st Century\" - YouTube": {
+                "time": 826982,
+                "category": "Entertainment",
+                "domain": null
+            },
+            "Electron": {
+                "time": 993,
+                "category": "Miscellaneous",
+                "domain": null
+            },
+            "Distraction Popup": {
+                "time": 13990,
+                "category": "Miscellaneous",
+                "domain": null
+            },
+            "MostUsedList.jsx - electron-app - Visual Studio Code": {
+                "time": 64057,
+                "category": "Code",
+                "domain": null
+            },
+            "explorer.exe": {
+                "time": 5011,
+                "category": "Utilities"
+            },
+            "": {
+                "time": 2008,
+                "category": "Miscellaneous",
+                "domain": "youtube.com"
+            },
+            "YouTube - (42) YouTube": {
+                "time": 82005,
+                "category": "Entertainment",
+                "domain": "youtube.com"
+            },
+            "index.js - NodeJS-Course-2024-For-Beginners - Visual Studio Code": {
+                "time": 119999,
+                "category": "Code",
+                "domain": "chatgpt.com"
+            },
+            "URL Shortener Problem - Brave": {
+                "time": 120010,
+                "category": "Miscellaneous",
+                "domain": "chatgpt.com"
+            }
+        },
+        "14:00": {
+            "(42) Node JS Full Course 2024 | Complete Backend Development Course | Part 1 - YouTube - Brave": {
+                "time": 636529,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "green o food and beverages - Brave Search - Brave": {
+                "time": 59988,
+                "category": "Miscellaneous",
+                "domain": "youtube.com"
+            },
+            "electron.exe": {
+                "time": 293780,
+                "category": "Code"
+            },
+            "Electron": {
+                "time": 5991,
+                "category": "Miscellaneous",
+                "domain": null
+            },
+            "Code.exe": {
+                "time": 119888,
+                "category": "Code"
+            },
+            "explorer.exe": {
+                "time": 988,
+                "category": "Utilities"
+            },
+            "index.js - NodeJS-Course-2024-For-Beginners - Visual Studio Code": {
+                "time": 995,
+                "category": "Code",
+                "domain": "chatgpt.com"
+            },
+            "URL Shortener Problem - Brave": {
+                "time": 87020,
+                "category": "Miscellaneous",
+                "domain": "chatgpt.com"
+            },
+            "ShellExperienceHost.exe": {
+                "time": 2997,
+                "category": "Miscellaneous"
+            },
+            "Skype.exe": {
+                "time": 20999,
+                "category": "Communication"
+            }
+        },
+        "15:00": {
+            "Code.exe": {
+                "time": 728840,
+                "category": "Code"
+            },
+            "explorer.exe": {
+                "time": 8989,
+                "category": "Utilities"
+            },
+            "ShellExperienceHost.exe": {
+                "time": 25988,
+                "category": "Miscellaneous"
+            },
+            "electron.exe": {
+                "time": 362272,
+                "category": "Code"
+            },
+            "Skype.exe": {
+                "time": 61001,
+                "category": "Communication"
+            },
+            "dataProcessor.js - electron-app - Visual Studio Code": {
+                "time": 60988,
+                "category": "Code",
+                "domain": "chatgpt.com"
+            },
+            "UsageChart.jsx - electron-app - Visual Studio Code": {
+                "time": 989,
+                "category": "Code",
+                "domain": "chatgpt.com"
+            },
+            "URL Shortener Problem - Brave": {
+                "time": 125986,
+                "category": "Miscellaneous",
+                "domain": "chatgpt.com"
+            },
+            "(42) Node JS Full Course 2024 | Complete Backend Development Course | Part 1 - YouTube - Brave": {
+                "time": 542027,
+                "category": "Code",
+                "domain": "youtube.com"
+            },
+            "index.js - NodeJS-Course-2024-For-Beginners - Visual Studio Code": {
+                "time": 119998,
+                "category": "Code",
+                "domain": "chatgpt.com"
+            },
+            "(42) A year of boycott: The high cost of supporting Israel - YouTube - Brave": {
+                "time": 532894,
+                "category": "Entertainment",
+                "domain": "youtube.com"
+            },
+            "Distraction Popup": {
+                "time": 5204,
+                "category": "Miscellaneous",
+                "domain": "youtube.com"
+            }
+        }
+    }
+}
